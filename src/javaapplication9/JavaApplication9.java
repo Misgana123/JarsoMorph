@@ -247,7 +247,6 @@ public class JavaApplication9 {
 //                }
         }
         myWriter.close();
-//            System.out.println(counter);
     }
 
     public static int getLastLetterBegginingPosition(String word) {
